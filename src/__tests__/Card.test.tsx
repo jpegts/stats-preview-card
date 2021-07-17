@@ -49,6 +49,5 @@ describe("<Card />", () => {
     expect(getByText("templates")).toBeTruthy();
     expect(getByText("12M+")).toBeTruthy();
     expect(getByText("queries")).toBeTruthy();
-    expect(container.firstChild).toMatchSnapshot();
   });
 });
