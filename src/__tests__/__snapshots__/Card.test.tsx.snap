@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> renders <Card/> with populated data 1`] = `
+<section
+  class="Card__Section-sc-1orjhe5-0 cgLRro"
+>
+  <div
+    class="Card__Container-sc-1orjhe5-1 ffJUiR"
+  >
+    <div
+      class="Card__Pane-sc-1orjhe5-2 hDJgGX"
+    >
+      <h3
+        class="Card__Title-sc-1orjhe5-4 dSeTZi"
+        data-testid="title-test"
+      >
+        Get 
+        <span>
+          insights
+        </span>
+         that help your business grow.
+      </h3>
+      <p
+        class="Card__Description-sc-1orjhe5-5 kgpQhF"
+      >
+        Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency.
+      </p>
+      <div
+        class="Card__Group-sc-1orjhe5-6 fPQjvw"
+      >
+        <div
+          class="Card__Item-sc-1orjhe5-7 fFNmWk"
+        >
+          <p
+            class="Card__Stat-sc-1orjhe5-8 fuYUOY"
+          >
+            10k+
+          </p>
+          <p
+            class="Card__Meta-sc-1orjhe5-9 ljaYdK"
+          >
+            companies
+          </p>
+        </div>
+        <div
+          class="Card__Item-sc-1orjhe5-7 fFNmWk"
+        >
+          <p
+            class="Card__Stat-sc-1orjhe5-8 fuYUOY"
+          >
+            314
+          </p>
+          <p
+            class="Card__Meta-sc-1orjhe5-9 ljaYdK"
+          >
+            templates
+          </p>
+        </div>
+        <div
+          class="Card__Item-sc-1orjhe5-7 fFNmWk"
+        >
+          <p
+            class="Card__Stat-sc-1orjhe5-8 fuYUOY"
+          >
+            12M+
+          </p>
+          <p
+            class="Card__Meta-sc-1orjhe5-9 ljaYdK"
+          >
+            queries
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="Card__Pane-sc-1orjhe5-2 hDJgGX"
+    >
+      <div
+        class="Card__Picture-sc-1orjhe5-3 dGmdkY"
+      />
+    </div>
+  </div>
+</section>
+`;
